@@ -5,7 +5,8 @@ Flask: https://realpython.com/flask-by-example-part-1-project-setup/
 
 
 Tflow 2D-3D? https://databricks.com/tensorflow/tensorflow-in-3d
-https://stackoverflow.com/questions/55908905/how-to-extract-vector-of-exact-coordinates-of-the-image-in-tensorflow
+
+stackoverflow = the_best; https://stackoverflow.com/questions/55908905/how-to-extract-vector-of-exact-coordinates-of-the-image-in-tensorflow
 
 
 loading files into tensorflow https://www.youtube.com/watch?v=j-3vuBynnOE
