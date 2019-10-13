@@ -7,3 +7,5 @@ Flask: https://realpython.com/flask-by-example-part-1-project-setup/
 Tflow 2D-3D? https://github.com/chenhsuanlin/3D-point-cloud-generation
 
 loading files into tensorflow https://www.youtube.com/watch?v=j-3vuBynnOE
+
+ipyvolume 3D plotting https://ipyvolume.readthedocs.io/en/latest/install.html
